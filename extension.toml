@@ -1,3 +1,5 @@
+[mc-dp-icons]
+submodule = "extensions/mc-dp-icons/"
 id = "mc-dp-icons"
 name = "Datapack Icons"
 version = "0.1.0"
