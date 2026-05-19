@@ -2551,997 +2551,997 @@
       "name": "Datapack Icons (Christmas)",
       "appearance": "dark",
       "directory_icons": {
-        "collapsed": "./icons/generic_folder_closed.svg",
-        "expanded": "./icons/generic_folder.svg"
+        "collapsed": "./icons/generic_folder_closed_xmas.svg",
+        "expanded": "./icons/generic_folder_xmas.svg"
       },
       "named_directory_icons": {
         "advancement": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/advancement_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/advancement_folder_xmas.svg"
         },
         "advancements": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/advancement_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/advancement_folder_xmas.svg"
         },
         "banner_pattern": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/banner_pattern_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/banner_pattern_folder_xmas.svg"
         },
         "cat_sound_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/cat_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/cat_variant_folder_xmas.svg"
         },
         "cat_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/cat_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/cat_variant_folder_xmas.svg"
         },
         "chat_type": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/chat_type_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/chat_type_folder_xmas.svg"
         },
         "dialogue": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/chat_type_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/chat_type_folder_xmas.svg"
         },
         "chicken_sound_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/chicken_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/chicken_variant_folder_xmas.svg"
         },
         "chicken_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/chicken_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/chicken_variant_folder_xmas.svg"
         },
         "cow_sound_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/cow_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/cow_variant_folder_xmas.svg"
         },
         "cow_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/cow_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/cow_variant_folder_xmas.svg"
         },
         "damage_type": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/damage_type_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/damage_type_folder_xmas.svg"
         },
         "data": {
           "collapsed": "./icons/data_folder_closed.svg",
           "expanded": "./icons/data_folder.svg"
         },
         "datapacks": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/datapacks_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/datapacks_folder_xmas.svg"
         },
         "dialog": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/dialog_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/dialog_folder_xmas.svg"
         },
         "dimension": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/dimension_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/dimension_folder_xmas.svg"
         },
         "dimension_type": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/dimension_type_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/dimension_type_folder_xmas.svg"
         },
         "portaltypes": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/dimension_type_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/dimension_type_folder_xmas.svg"
         },
         "enchantment": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/enchantment_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/enchantment_folder_xmas.svg"
         },
         "enchantment_provider": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/enchantment_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/enchantment_folder_xmas.svg"
         },
         "frog_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/frog_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/frog_variant_folder_xmas.svg"
         },
         "function": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/function_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/function_folder_xmas.svg"
         },
         "functions": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/function_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/function_folder_xmas.svg"
         },
         "instrument": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/instrument_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/instrument_folder_xmas.svg"
         },
         "item_modifier": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/item_modifier_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/item_modifier_folder_xmas.svg"
         },
         "item_modifiers": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/item_modifier_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/item_modifier_folder_xmas.svg"
         },
         "item_catalog": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/item_modifier_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/item_modifier_folder_xmas.svg"
         },
         "jukebox_song": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/jukebox_song_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/jukebox_song_folder_xmas.svg"
         },
         "music": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/jukebox_song_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/jukebox_song_folder_xmas.svg"
         },
         "loot_table": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/loot_table_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/loot_table_folder_xmas.svg"
         },
         "loot_tables": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/loot_table_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/loot_table_folder_xmas.svg"
         },
         "drops": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/loot_table_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/loot_table_folder_xmas.svg"
         },
         "pig_sound_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/pig_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/pig_variant_folder_xmas.svg"
         },
         "pig_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/pig_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/pig_variant_folder_xmas.svg"
         },
         "predicate": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/predicate_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/predicate_folder_xmas.svg"
         },
         "predicates": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/predicate_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/predicate_folder_xmas.svg"
         },
         "recipe": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/recipe_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/recipe_folder_xmas.svg"
         },
         "recipes": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/recipe_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/recipe_folder_xmas.svg"
         },
         "mcdoc": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/spyglass_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/spyglass_folder_xmas.svg"
         },
         "cameras": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/spyglass_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/spyglass_folder_xmas.svg"
         },
         "camera": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/spyglass_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/spyglass_folder_xmas.svg"
         },
         "structure": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/structure_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/structure_folder_xmas.svg"
         },
         "structures": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/structure_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/structure_folder_xmas.svg"
         },
         "instances": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/structure_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/structure_folder_xmas.svg"
         },
         "tags": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/tags_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/tags_folder_xmas.svg"
         },
         "tag_patterns": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/tags_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/tags_folder_xmas.svg"
         },
         "weathers": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/tags_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/tags_folder_xmas.svg"
         },
         "test_environment": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/test_environment_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/test_environment_folder_xmas.svg"
         },
         "__tests__": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/test_environment_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/test_environment_folder_xmas.svg"
         },
         "test": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/test_environment_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/test_environment_folder_xmas.svg"
         },
         "tests": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/test_environment_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/test_environment_folder_xmas.svg"
         },
         "test_instance": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/test_instance_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/test_instance_folder_xmas.svg"
         },
         "timeline": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/timeline_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/timeline_folder_xmas.svg"
         },
         "world_clock": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/timeline_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/timeline_folder_xmas.svg"
         },
         "trial_spawner": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/trial_spawner_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/trial_spawner_folder_xmas.svg"
         },
         "trim_material": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/trim_material_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/trim_material_folder_xmas.svg"
         },
         "cosmetics": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/trim_material_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/trim_material_folder_xmas.svg"
         },
         "trim_pattern": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/trim_pattern_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/trim_pattern_folder_xmas.svg"
         },
         "responsecurves": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/trim_pattern_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/trim_pattern_folder_xmas.svg"
         },
         "wolf_sound_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/wolf_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/wolf_variant_folder_xmas.svg"
         },
         "wolf_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/wolf_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/wolf_variant_folder_xmas.svg"
         },
         "worldgen": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/worldgen_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/worldgen_folder_xmas.svg"
         },
         "biomes": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/worldgen_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/worldgen_folder_xmas.svg"
         },
         "world": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/worldgen_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/worldgen_folder_xmas.svg"
         },
         "zombie_nautilus_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/zombie_nautilus_variant_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/zombie_nautilus_variant_folder_xmas.svg"
         },
         "assets": {
           "collapsed": "./icons/assets_folder_closed.svg",
           "expanded": "./icons/assets_folder.svg"
         },
         "atlases": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/atlases_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/atlases_folder_xmas.svg"
         },
         "blockstates": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/blockstates_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/blockstates_folder_xmas.svg"
         },
         "equipment": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/equipment_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/equipment_folder_xmas.svg"
         },
         "font": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/font_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/font_folder_xmas.svg"
         },
         "fonts": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/font_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/font_folder_xmas.svg"
         },
         "items": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/items_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/items_folder_xmas.svg"
         },
         "lang": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/lang_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/lang_folder_xmas.svg"
         },
         "languages": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/lang_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/lang_folder_xmas.svg"
         },
         "models": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/models_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/models_folder_xmas.svg"
         },
         "particles": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/particles_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/particles_folder_xmas.svg"
         },
         "trails": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/particles_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/particles_folder_xmas.svg"
         },
         "post_effect": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shaders_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shaders_folder_xmas.svg"
         },
         "shaders": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shaders_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shaders_folder_xmas.svg"
         },
         "color_grading": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shaders_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shaders_folder_xmas.svg"
         },
         "screeneffects": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shaders_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shaders_folder_xmas.svg"
         },
         "tintgradients": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shaders_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shaders_folder_xmas.svg"
         },
         "waypoint_style": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/waypoint_style_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/waypoint_style_folder_xmas.svg"
         },
         "objective": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/waypoint_style_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/waypoint_style_folder_xmas.svg"
         },
         "blocks": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/blocks_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/blocks_folder_xmas.svg"
         },
         "blocktypelist": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/blocks_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/blocks_folder_xmas.svg"
         },
         "entities": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/entities_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/entities_folder_xmas.svg"
         },
         "entity": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/entities_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/entities_folder_xmas.svg"
         },
         "characters": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/entities_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/entities_folder_xmas.svg"
         },
         "feature_rules": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/features_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/features_folder_xmas.svg"
         },
         "features": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/features_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/features_folder_xmas.svg"
         },
         "prefablist": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/features_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/features_folder_xmas.svg"
         },
         "prefabs": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/features_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/features_folder_xmas.svg"
         },
         "spawn_rules": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/spawn_rules_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/spawn_rules_folder_xmas.svg"
         },
         "trade_set": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/trading_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/trading_folder_xmas.svg"
         },
         "villager_trade": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/trading_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/trading_folder_xmas.svg"
         },
         "trading": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/trading_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/trading_folder_xmas.svg"
         },
         "bartershops": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/trading_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/trading_folder_xmas.svg"
         },
         "npc": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/trading_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/trading_folder_xmas.svg"
         },
         "attachables": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/attachables_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/attachables_folder_xmas.svg"
         },
         "block_culling": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/block_culling_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/block_culling_folder_xmas.svg"
         },
         "atmospherics": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/fogs_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/fogs_folder_xmas.svg"
         },
         "fogs": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/fogs_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/fogs_folder_xmas.svg"
         },
         "environments": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/fogs_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/fogs_folder_xmas.svg"
         },
         "materials": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/materials_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/materials_folder_xmas.svg"
         },
         "render_controllers": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/render_controllers_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/render_controllers_folder_xmas.svg"
         },
         "ui": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/ui_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/ui_folder_xmas.svg"
         },
         "archive": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/archive_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/archive_folder_xmas.svg"
         },
         "archived": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/archive_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/archive_folder_xmas.svg"
         },
         "archives": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/archive_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/archive_folder_xmas.svg"
         },
         "lib": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/archive_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/archive_folder_xmas.svg"
         },
         "libs": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/archive_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/archive_folder_xmas.svg"
         },
         "packages": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/archive_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/archive_folder_xmas.svg"
         },
         "pkg": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/archive_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/archive_folder_xmas.svg"
         },
         "sounds": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/audio_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/audio_folder_xmas.svg"
         },
         "audio": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/audio_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/audio_folder_xmas.svg"
         },
         ".cargo": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/cargo_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/cargo_folder_xmas.svg"
         },
         "crates": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/cargo_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/cargo_folder_xmas.svg"
         },
         "ci": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "config": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "configs": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "etc": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "gameplayconfigs": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "helpers": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "prefabeditorcreationsettings": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "projectileconfigs": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "settings": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "util": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "utilities": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "utils": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/config_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/config_folder_xmas.svg"
         },
         "css": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/css_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/css_folder_xmas.svg"
         },
         "less": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/css_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/css_folder_xmas.svg"
         },
         "postcss": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/css_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/css_folder_xmas.svg"
         },
         "sass": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/css_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/css_folder_xmas.svg"
         },
         "scss": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/css_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/css_folder_xmas.svg"
         },
         "styles": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/css_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/css_folder_xmas.svg"
         },
         "stylesheets": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/css_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/css_folder_xmas.svg"
         },
         ".dart_tool": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/dart_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/dart_folder_xmas.svg"
         },
         "database": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/database_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/database_folder_xmas.svg"
         },
         "db": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/database_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/database_folder_xmas.svg"
         },
         "migrations": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/database_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/database_folder_xmas.svg"
         },
         "resources": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/database_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/database_folder_xmas.svg"
         },
         "seeds": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/database_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/database_folder_xmas.svg"
         },
         "sql": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/database_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/database_folder_xmas.svg"
         },
         ".docker": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/docker_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/docker_folder_xmas.svg"
         },
         "elm-stuff": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/elm_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/elm_folder_xmas.svg"
         },
         "app": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/executable_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/executable_folder_xmas.svg"
         },
         "bin": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/executable_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/executable_folder_xmas.svg"
         },
         "build": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/executable_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/executable_folder_xmas.svg"
         },
         "dist": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/executable_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/executable_folder_xmas.svg"
         },
         "out": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/executable_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/executable_folder_xmas.svg"
         },
         "publish": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/executable_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/executable_folder_xmas.svg"
         },
         "release": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/executable_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/executable_folder_xmas.svg"
         },
         "releases": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/executable_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/executable_folder_xmas.svg"
         },
         ".git": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/git_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/git_folder_xmas.svg"
         },
         ".github": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/github_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/github_folder_xmas.svg"
         },
         "github": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/github_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/github_folder_xmas.svg"
         },
         ".godot": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/godot_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/godot_folder_xmas.svg"
         },
         ".gradle": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/gradle_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/gradle_folder_xmas.svg"
         },
         "buildSrc": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/gradle_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/gradle_folder_xmas.svg"
         },
         "gradle": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/gradle_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/gradle_folder_xmas.svg"
         },
         "painting_variant": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/image_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/image_folder_xmas.svg"
         },
         "textures": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/image_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/image_folder_xmas.svg"
         },
         "blocktextures": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/image_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/image_folder_xmas.svg"
         },
         "icons": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/image_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/image_folder_xmas.svg"
         },
         "images": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/image_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/image_folder_xmas.svg"
         },
         "sprites": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/image_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/image_folder_xmas.svg"
         },
         "mods": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/jar_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/jar_folder_xmas.svg"
         },
         "plugins": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/jar_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/jar_folder_xmas.svg"
         },
         "target": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/jar_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/jar_folder_xmas.svg"
         },
         "javascript": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/javascript_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/javascript_folder_xmas.svg"
         },
         "javascripts": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/javascript_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/javascript_folder_xmas.svg"
         },
         "js": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/javascript_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/javascript_folder_xmas.svg"
         },
         "script": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/javascript_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/javascript_folder_xmas.svg"
         },
         "scripts": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/javascript_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/javascript_folder_xmas.svg"
         },
         ".idea": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/jetbrains_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/jetbrains_folder_xmas.svg"
         },
         ".julia": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/julia_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/julia_folder_xmas.svg"
         },
         "alpine": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "appimage": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "archlinux": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "centos": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "deb": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "debian": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "fedora": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "flatpak": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "gentoo": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "gnu": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "grub": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "init.d": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "kali": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "kalilinux": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "linux": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "nixos": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "opensuse": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "posix": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "raspbian": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "redhat": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "rpm": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "snap": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "suse": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "systemd": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "ubuntu": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "unix": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "wsl": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/linux_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/linux_folder_xmas.svg"
         },
         "logs": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/log_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/log_folder_xmas.svg"
         },
         ".m2": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/maven_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/maven_folder_xmas.svg"
         },
         ".mvn": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/maven_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/maven_folder_xmas.svg"
         },
         "nvim": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/neovim_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/neovim_folder_xmas.svg"
         },
         "nim": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/nim_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/nim_folder_xmas.svg"
         },
         "nimcache": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/nim_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/nim_folder_xmas.svg"
         },
         "node_modules": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/npm_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/npm_folder_xmas.svg"
         },
         "__pycache__": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/python_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/python_folder_xmas.svg"
         },
         ".bloop": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/scala_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/scala_folder_xmas.svg"
         },
         ".metals": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/scala_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/scala_folder_xmas.svg"
         },
         "bash": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shell_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shell_folder_xmas.svg"
         },
         "cli": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shell_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shell_folder_xmas.svg"
         },
         "cmd": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shell_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shell_folder_xmas.svg"
         },
         "powershell": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shell_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shell_folder_xmas.svg"
         },
         "pwsh": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shell_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shell_folder_xmas.svg"
         },
         "sh": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shell_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shell_folder_xmas.svg"
         },
         "shell": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shell_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shell_folder_xmas.svg"
         },
         "shells": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shell_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shell_folder_xmas.svg"
         },
         "terminal": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shell_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shell_folder_xmas.svg"
         },
         "zsh": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/shell_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/shell_folder_xmas.svg"
         },
         "src": {
           "collapsed": "./icons/src_folder_closed.svg",
           "expanded": "./icons/src_folder.svg"
         },
         ".terraform": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/terraform_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/terraform_folder_xmas.svg"
         },
         "texts": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/text_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/text_folder_xmas.svg"
         },
         "wordlists": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/text_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/text_folder_xmas.svg"
         },
         "backlog": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/todo_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/todo_folder_xmas.svg"
         },
         "kanban": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/todo_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/todo_folder_xmas.svg"
         },
         "milestones": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/todo_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/todo_folder_xmas.svg"
         },
         "planning": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/todo_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/todo_folder_xmas.svg"
         },
         "plans": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/todo_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/todo_folder_xmas.svg"
         },
         "roadmap": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/todo_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/todo_folder_xmas.svg"
         },
         "tickets": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/todo_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/todo_folder_xmas.svg"
         },
         "todo": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/todo_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/todo_folder_xmas.svg"
         },
         "todos": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/todo_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/todo_folder_xmas.svg"
         },
         "typst-packages": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/typst_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/typst_folder_xmas.svg"
         },
         "animation_controllers": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/video_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/video_folder_xmas.svg"
         },
         "animations": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/video_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/video_folder_xmas.svg"
         },
         "vfx": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/video_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/video_folder_xmas.svg"
         },
         ".vim": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/vim_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/vim_folder_xmas.svg"
         },
         ".vs": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/vs_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/vs_folder_xmas.svg"
         },
         ".vscode": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/vscode_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/vscode_folder_xmas.svg"
         },
         "zig": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/zig_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/zig_folder_xmas.svg"
         },
         "zig-cache": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/zig_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/zig_folder_xmas.svg"
         },
         "zig-out": {
-          "collapsed": "./icons/generic_folder_closed.svg",
-          "expanded": "./icons/zig_folder.svg"
+          "collapsed": "./icons/generic_folder_closed_xmas.svg",
+          "expanded": "./icons/zig_folder_xmas.svg"
         }
       },
       "file_stems": {

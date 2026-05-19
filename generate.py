@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import json, shutil, subprocess, sys
+import copy, json, shutil, subprocess, sys
 from pathlib import Path
 
 SOURCE = Path(__file__).parent.parent / "mc-dp-icons"
@@ -52,7 +52,7 @@ def path_zed(vsc_path):
     return vsc_path.replace("../", "./")
 
 
-def build_theme(schema, name, xmas=None):
+def build_theme(schema, name):
     closed = schema["iconDefinitions"].get(schema["folder"], {}).get("iconPath", "")
     opened = schema["iconDefinitions"].get(schema["folderExpanded"], {}).get("iconPath", "")
 
@@ -77,16 +77,10 @@ def build_theme(schema, name, xmas=None):
     for ik, iv in schema["iconDefinitions"].items():
         if "_file" not in ik:
             continue
-        p = path_zed(iv["iconPath"])
-        if xmas is not None and ik in xmas:
-            p = p.replace(".svg", "_xmas.svg")
-        fi[ik] = {"path": p}
+        fi[ik] = {"path": path_zed(iv["iconPath"])}
     default = schema["iconDefinitions"].get(schema["file"], {})
     if default:
-        p = path_zed(default["iconPath"])
-        if xmas is not None and schema["file"] in xmas:
-            p = p.replace(".svg", "_xmas.svg")
-        fi["default"] = {"path": p}
+        fi["default"] = {"path": path_zed(default["iconPath"])}
 
     return {
         "name": name,
@@ -109,7 +103,12 @@ def main():
 
     themes = [build_theme(base, "Datapack Icons")]
     if xmas_list:
-        themes.append(build_theme(base, "Datapack Icons (Christmas)", xmas=xmas_list))
+        xmas = copy.deepcopy(base)
+        for key in xmas_list:
+            if key in xmas["iconDefinitions"]:
+                old = xmas["iconDefinitions"][key]["iconPath"]
+                xmas["iconDefinitions"][key]["iconPath"] = old.replace(".svg", "_xmas.svg")
+        themes.append(build_theme(xmas, "Datapack Icons (Christmas)"))
 
     family = {
         "$schema": "https://zed.dev/schema/icon_themes/v0.3.0.json",
