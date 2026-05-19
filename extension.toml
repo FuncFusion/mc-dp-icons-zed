@@ -1,4 +1,3 @@
-[mc-dp-icons]
 submodule = "extensions/mc-dp-icons-theme/"
 id = "mc-dp-icons-theme"
 name = "Datapack Icons"
