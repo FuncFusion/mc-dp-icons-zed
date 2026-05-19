@@ -1,6 +1,6 @@
 [mc-dp-icons]
-submodule = "extensions/mc-dp-icons/"
-id = "mc-dp-icons"
+submodule = "extensions/mc-dp-icons-theme/"
+id = "mc-dp-icons-theme"
 name = "Datapack Icons"
 version = "0.1.0"
 schema_version = 1
