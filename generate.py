@@ -98,6 +98,7 @@ def build_theme(schema, name):
 
 def main():
     print(f"Reading icons from {SOURCE}")
+    subprocess.run(["git", "pull", "--ff-only"], cwd=SOURCE, check=False)
     subprocess.run(["npm", "run", "generate"], cwd=SOURCE, check=True)
     base, xmas_list = parse_theme(THEME_TS)
 
@@ -131,8 +132,12 @@ def main():
         shutil.copy2(license_src, OUT / "LICENSE")
         print(f"Copied LICENSE")
 
-    print(f"Generated — run 'git diff' to review changes before committing.")
-                    
+    r = subprocess.run(["git", "diff", "--stat"], cwd=OUT, capture_output=True, text=True)
+    if r.stdout.strip():
+        print("Changes:")
+        print(r.stdout)
+    else:
+        print("No changes.")
 
 
 if __name__ == "__main__":
