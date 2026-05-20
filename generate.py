@@ -90,8 +90,8 @@ def build_theme(schema, name):
             "expanded": path_zed(opened) if opened else "",
         },
         "named_directory_icons": ndi,
-        "file_stems": schema["fileNames"],
-        "file_suffixes": schema["fileExtensions"],
+        "file_stems": {k: v for k, v in schema["fileNames"].items() if "/" not in k},
+        "file_suffixes": {k: v for k, v in schema["fileExtensions"].items() if "/" not in k},
         "file_icons": fi,
     }
 
@@ -131,13 +131,8 @@ def main():
         shutil.copy2(license_src, OUT / "LICENSE")
         print(f"Copied LICENSE")
 
-    r = subprocess.run(["git", "status", "--porcelain"], cwd=OUT, capture_output=True, text=True)
-    if r.stdout.strip():
-        subprocess.run(["git", "add", "-A"], cwd=OUT)
-        subprocess.run(["git", "commit", "-m", "sync icons"], cwd=OUT)
-        print("Changes committed. Run 'git push' to publish.")
-    else:
-        print("No changes.")
+    print(f"Generated — run 'git diff' to review changes before committing.")
+                    
 
 
 if __name__ == "__main__":
