@@ -99,7 +99,7 @@ def build_theme(schema, name):
 def main():
     print(f"Reading icons from {SOURCE}")
     subprocess.run(["git", "pull", "--ff-only"], cwd=SOURCE, check=False)
-    subprocess.run(["npm", "run", "generate"], cwd=SOURCE, check=True)
+    subprocess.run(["bun", "run", "generate"], cwd=SOURCE, check=True)
     base, xmas_list = parse_theme(THEME_TS)
 
     themes = [build_theme(base, "Datapack Icons")]
